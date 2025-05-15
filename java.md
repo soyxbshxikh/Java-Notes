@@ -1,4 +1,4 @@
-# Comprehensive Java Programming Notes
+<h1 align="center"> JAVA Notes </h1>
 
 ## 1. Java Basics
 
